@@ -52,13 +52,11 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 ## **01 Introduction and Tidy Code**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/landing)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/landing)
 
-<!--
+**[Live Lecture](https://youtu.be/jURdBjVvM4o)**
 
-**[Live Lecture](https://youtu.be/IrQhvZ8AV9A)**
-
-**[Live Review](https://youtu.be/0l1cvh6sfQE)**
+**[Live Review](https://youtu.be/cdb3PDwyc5I)**
 
 [Lecture Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
 
@@ -66,9 +64,9 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 [Past Notes](01-tidy-code)
 
-1. [Our Solution 1](https://codepen.io/habst/pen/mdWrBvV?editors=0010)
-2. [Our Solution 2](https://codepen.io/habst/pen/YzZGrBP?editors=0010)
-3. [Our Soluiton 3](https://codepen.io/habst/pen/OJpRxdb?editors=0010)
+1. [Solutions w/ Harry](https://codepen.io/collection/jbOVmZ)
+
+<!--
 
 ## **02 Loops And Debugging**
 
