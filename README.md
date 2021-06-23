@@ -66,19 +66,15 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 1. [Solutions w/ Harry](https://codepen.io/collection/jbOVmZ)
 
-<!--
-
 ## **02 Loops And Debugging**
 
-**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
+
+**[Live Lecture](https://youtu.be/nwEFKYcA8PQ)**
+
+**[Live Review](https://drive.google.com/file/d/1oH6pDLCXOqREHGbAcwQVl-oAbzVYtem0/view)**
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
-
-**[Live Lecture](https://youtu.be/aQKHr2oDnOk)** (Old lecture)
-
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac573a6bd9f9e0004adb0cd/text)
-
-[Exit Ticket](https://docs.google.com/forms/d/1xbaqc59drRmTN4gIH27Ow0-fBjvZnqPagA8ZMRwEhaM/viewform)
 
 ### Notes
 
@@ -91,6 +87,8 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 3. [Which is Better](02-loops-and-debugging/C-for-vs-while.js)
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)
+
+<!--
 
 ## **03 Coercion and Truthiness**
 
