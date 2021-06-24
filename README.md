@@ -68,11 +68,11 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 ## **02 Loops And Debugging**
 
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
-
 **[Live Lecture](https://youtu.be/nwEFKYcA8PQ)**
 
-**[Live Review](https://drive.google.com/file/d/1oH6pDLCXOqREHGbAcwQVl-oAbzVYtem0/view)**
+**[Live Review](https://youtu.be/EhZdkWz3AzE)**
+
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
@@ -88,33 +88,22 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)
 
-<!--
-
 ## **03 Coercion and Truthiness**
+
+**[Live Lecture](https://youtu.be/PSzobAWph3o)**
+
+**[Live Review](https://youtu.be/ZIbj1gZOf1M)** (old video)
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/AY-llG2y4YE)**
-
-**[Live Review](https://youtu.be/ZIbj1gZOf1M)**
-
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed63/text)
-
-[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScVupIeB2jo_uiUOaEWoEBmNM80EwArRHYGXqz7wZxAf1DXiw/viewform)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/landing)
 
 ### Notes
 
 * [Truthiness & Types Solutions w/ Harry](https://codepen.io/collection/jbbkoO?cursor=ZD0wJm89MCZwPTEmdj00)
+* [Extra Credit](03-type-coercion-and-truthiness/extra-credit.js)
 
-[Full Notes](03-coercion-and-truthiness)
-
-1. [Explicit Coercion 1](03-coercion-and-truthiness/A-explicit-coercion.js)
-2. [Implicit Coercion 1](03-coercion-and-truthiness/B-implicit-coercion-1.js)
-3. [Implicit Coercion 2](03-coercion-and-truthiness/C-implicit-coercion-2.js)
-4. [Boolean Coercion 1](03-coercion-and-truthiness/D-boolean-coercion-1.js)
-5. [Boolean Coercion 2](03-coercion-and-truthiness/E-boolean-coercion-2.js)
-6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
-7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
+<!--
 
 ## **04 Caesar Cypher**
 
