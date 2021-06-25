@@ -103,24 +103,23 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 * [Truthiness & Types Solutions w/ Harry](https://codepen.io/collection/jbbkoO?cursor=ZD0wJm89MCZwPTEmdj00)
 * [Extra Credit](03-type-coercion-and-truthiness/extra-credit.js)
 
-<!--
-
 ## **04 Caesar Cypher**
 
-**[Live Lecture](https://youtu.be/7EmRmZkRAak)**
+**[Live Lecture](https://youtu.be/nRSler1WJbs)**
 
-**[Live Review](https://youtu.be/5z-DetUEoUs)**
+**[Live Review](https://youtu.be/5z-DetUEoUs)** (old video)
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
-
-[Exit Ticket](https://docs.google.com/forms/d/1kOJ3QBtlyqH-PYzms0nXwoWY1-DKsg-h7Up9Bczbo0Q/viewform)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/landing)
 
 ### Notes
 
-* [Our Caesar Cypher](https://codepen.io/habst/pen/LYWxdwV?editors=0010)
-* [Our vowelCount](https://codepen.io/habst/pen/BaWpYGy)
+* [Fergal's Caesar Cypher Solution](04-reacto/fergal-solution.js)
+* [Harry's solutions](https://codepen.io/habst/pen/LYWxdwV?editors=0010)
+* [vowelCount solution](https://codepen.io/habst/pen/BaWpYGy)
+
+<!--
 
 ## **05 Scope**
 
