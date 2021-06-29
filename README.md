@@ -118,25 +118,21 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 * [Fergal's Caesar Cypher Solution](04-reacto/fergal-solution.js)
 * [Harry's solutions](https://codepen.io/habst/pen/LYWxdwV?editors=0010)
 * [vowelCount solution](https://codepen.io/habst/pen/BaWpYGy)
-
-<!--
+* [Harry's Caesar Cypher Decoder](https://codepen.io/habst/pen/xxqdyQd)
 
 ## **05 Scope**
 
-**[Live Lecture](https://youtu.be/ww1IqCNqHVc)**
+**[Live Lecture](https://youtu.be/Va1Sho-be1c)**
 
-**[Live Review](https://youtu.be/mZadnctnrK8)**
+**[Live Review](https://youtu.be/mZadnctnrK8)** (old video)
 
 [Lecture Slides](05-scope/05_Scope.pdf)
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
 
-[Exit Ticket](https://forms.gle/3wyhd27FtQrE9Kxf6)
-
 ### Notes
 
-* [Our Caesar Cypher Decoder](https://codepen.io/habst/pen/xxqdyQd)
-* [Our Solutions](https://codepen.io/collection/dbbRQk)
+* [Our Solutions](https://codepen.io/collection/jbOGQz)
 
 [Full Notes](05-scope)
 
@@ -147,6 +143,8 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 5. [Block Scope](05-scope/E-blockscope.js)
 6. [Hoisting](05-scope/F-hoisting.js)
 7. [Best Practices](05-scope/G-bestpract.js)
+
+<!--
 
 ## **06 Arrays I**
 
