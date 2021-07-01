@@ -176,13 +176,11 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-<!--
-
 ## **07 Arrays II**
 
-**[Live Lecture](https://youtu.be/RZnVM4VBfKI)**
+**[Live Lecture](https://youtu.be/wvBoAnu0TXs)**
 
-**[Review](https://youtu.be/PRlP2CxMCqY)**
+**[Live Review](https://youtu.be/PRlP2CxMCqY)** (old video)
 
 [Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)
 
@@ -191,6 +189,8 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 ### Notes
 
 * [Harry's Arrays II solutions](https://codepen.io/collection/kNNxwj)
+
+<!--
 
 ## **08 Sudoku Validator**
 
