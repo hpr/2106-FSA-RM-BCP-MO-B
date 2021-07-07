@@ -190,17 +190,15 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 * [Harry's Arrays II solutions](https://codepen.io/collection/kNNxwj)
 
-<!--
-
 ## **08 Sudoku Validator**
 
-**[Live Lecture](https://youtu.be/WFudk4HOlJU)**
+**[Live Lecture](https://youtu.be/5efTyma0UvM)**
 
-**[Review](https://youtu.be/q8zFfPfdKmQ)**
+**[Review](https://youtu.be/q8zFfPfdKmQ)** (old video)
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/landing)
 
 ### Notes
 
@@ -208,11 +206,13 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 ## **09 Objects**
 
-**[Live Lecture](https://youtu.be/8Ahb7RUagTw)**
+**[Live Lecture](https://youtu.be/eEAItxdkEvo)**
+
+**[Extra review](https://www.youtube.com/watch?v=zmiCx3MrUow)**
 
 [Lecture Slides](09-objects/09_Objects.pdf)
 
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/landing)
 
 ### General Notes
 
@@ -238,10 +238,6 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 **[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
-
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
-
 #### Object Methods Notes
 
 1. [What Are Methods](09-objects/N-whatisamethod.js)
@@ -260,6 +256,8 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 ## **Higher Order Functions II - Optional Advanced Lecture 3**
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
+
+<!--
 
 ## **10 Recursion I**
 
