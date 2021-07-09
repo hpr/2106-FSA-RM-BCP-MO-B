@@ -257,19 +257,18 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 **[Live Lecture](https://youtu.be/pAtDHJs5bis)**
 
-<!--
-
 ## **10 Recursion I**
 
-**[Live Lecture](https://youtu.be/Y7g_OUpRVDE)** (old link)
+**[Live Lecture](https://youtu.be/uLu0T-u5KJg)**
+
+**[Extra review](https://www.youtube.com/watch?v=wuoNJN-LlaE)**
 
 [Lecture Slides](10-recursion-i/10_Recursion_I.pdf)
 
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6356/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/landing)
 
 ### Notes
 
-* [Chloe's Review](https://replit.com/join/gqipeldh-kuroii)
 * [Harry's Review](https://codepen.io/collection/MggPbv)
 
 [Full Notes](10-recursion-i)
@@ -283,13 +282,13 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 
 ## **11 Recursion II**
 
-**[Live Lecture](https://youtu.be/f7X2jxvKPdU)**
+**[Live Lecture](https://youtu.be/mqxKTxhCbqk)**
 
 **[Live Review](https://youtu.be/CDtEBk3t3Wo)**
 
 [Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
 
-[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b642a/text)
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/landing)
 
 ### Notes
 
@@ -300,6 +299,8 @@ Hello! This is where Harry and Fergal will put the material for BCP. It will be 
 1. [logsAnArray](11-recursion-ii/A-logsAnArray.js)
 2. [concatEls](11-recursion-ii/B-concatEls.js)
 3. [sumVals](11-recursion-ii/C-sumVals.js)
+
+<!--
 
 ## **12 Next Steps**
 
